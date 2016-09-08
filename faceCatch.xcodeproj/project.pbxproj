@@ -14,6 +14,7 @@
 		196375191D7690D3001B79FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 196375171D7690D3001B79FC /* LaunchScreen.storyboard */; };
 		196375241D7690D3001B79FC /* faceCatchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196375231D7690D3001B79FC /* faceCatchTests.swift */; };
 		1963752F1D7690D3001B79FC /* faceCatchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1963752E1D7690D3001B79FC /* faceCatchUITests.swift */; };
+		196375411D7695B3001B79FC /* sample.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 196375401D7695B3001B79FC /* sample.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1963752A1D7690D3001B79FC /* faceCatchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = faceCatchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1963752E1D7690D3001B79FC /* faceCatchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = faceCatchUITests.swift; sourceTree = "<group>"; };
 		196375301D7690D3001B79FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		196375401D7695B3001B79FC /* sample.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		1963750D1D7690D3001B79FC /* faceCatch */ = {
 			isa = PBXGroup;
 			children = (
+				196375401D7695B3001B79FC /* sample.jpg */,
 				1963750E1D7690D3001B79FC /* AppDelegate.swift */,
 				196375101D7690D3001B79FC /* ViewController.swift */,
 				196375121D7690D3001B79FC /* Main.storyboard */,
@@ -232,6 +235,7 @@
 				196375191D7690D3001B79FC /* LaunchScreen.storyboard in Resources */,
 				196375161D7690D3001B79FC /* Assets.xcassets in Resources */,
 				196375141D7690D3001B79FC /* Main.storyboard in Resources */,
+				196375411D7695B3001B79FC /* sample.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
